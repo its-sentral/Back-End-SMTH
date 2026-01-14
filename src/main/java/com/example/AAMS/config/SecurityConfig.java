@@ -1,4 +1,4 @@
-package com.example.A.A_MS.config;
+package com.example.AAMS.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

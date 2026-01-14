@@ -1,4 +1,4 @@
-package com.example.A.A_MS.repository;
+package com.example.AAMS.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

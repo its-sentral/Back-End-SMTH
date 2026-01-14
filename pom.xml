@@ -5,13 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>4.0.1</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<version>3.2.1</version>
+		<relativePath/>
 	</parent>
+
 	<groupId>com.example</groupId>
-	<artifactId>A-A_MS</artifactId>
+	<artifactId>AAMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>A-A_MS</name>
+	<name>AAMS</name>
 	<description>project for Spring Boot</description>
 	<url/>
 	<licenses>

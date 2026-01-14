@@ -1,10 +1,10 @@
-package com.example.A.A_MS.controller;
+package com.example.AAMS.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.A.A_MS.service.AuthService;
+import com.example.AAMS.service.AuthService;
 
 import java.util.Map;
 

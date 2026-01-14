@@ -1,10 +1,10 @@
-package com.example.A.A_MS.service;
+package com.example.AAMS.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.example.A.A_MS.repository.DynamicAuthRepository;
+import com.example.AAMS.repository.DynamicAuthRepository;
 
 import java.util.UUID;
 
